@@ -8,8 +8,7 @@ from googleapiclient.errors import HttpError
 import warnings
 warnings.filterwarnings('ignore')
 
-# Replace with your own API key
-DEVELOPER_KEY = 'AIzaSyDxN7Qxc7KQklDPaF2WCfWSsF-uKW4x7Tk'
+DEVELOPER_KEY = '-------'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 # Create a client object to interact with the YouTube API
